@@ -89,23 +89,23 @@
   }
 
  .aligned-text {
-    text-align: left;
+   text-align: left;
   }
   
  .aligned-text_center {
-    text-align: center;
+   text-align: center;
   }
   
  .aligned-text_right {
-    text-align: right;
+   text-align: right;
   }
 
   .letter-spacing-extended {
-    letter-spacing: 60px;
+   letter-spacing: 60px;
   }
   
   .no-letter-spacing {
-    letter-spacing: 0;
+   letter-spacing: 0;
   }
 
   .cover_description {
