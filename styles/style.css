@@ -235,7 +235,7 @@
 
   .about {
     display: grid;
-    grid-template-columns: 430px auto ; 
+    grid-template-columns: 430px auto; 
     padding-right: 50px;
     padding-left: 50px;
   }
