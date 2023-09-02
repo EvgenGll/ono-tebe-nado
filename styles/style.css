@@ -51,7 +51,7 @@
 
   .address {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     color:#000;
     font-size: 18px;
     line-height: 1.35;
@@ -118,7 +118,7 @@
   .cover_description-text {
     font-size: 22px;
     font-weight: 400;
-    line-height: 28px; 
+    line-height: 28px;
     text-transform: uppercase;
     word-spacing: 18px;
     margin-right: 78px;
@@ -217,7 +217,7 @@
     color: #FFF;
     font-size: 20px;
     font-weight: 400;
-    line-height: 1.2; 
+    line-height: 1.2;
     list-style: none;
     z-index: 3;
   }
@@ -235,7 +235,7 @@
 
   .about {
     display: grid;
-    grid-template-columns: 430px auto; 
+    grid-template-columns: 430px auto;
     padding-right: 50px;
     padding-left: 50px;
   }
